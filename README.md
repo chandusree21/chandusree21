@@ -1,16 +1,17 @@
 ### Hi there 👋
+**About me**  
+I am chandu sree. I am currently pursing b.tech second year in V.R.Siddhartha engineering college in the stream Computer Science. I hail from Vijayawada.
 
-<!--
-**chandusree21/chandusree21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Github
+- 👯 I’m looking to collaborate on Google
+- 🤔 I’m looking for help with AI Technologies
+- 📫 How to reach me: [githublink](https://github.com/chandusree21).
 
-Here are some ideas to get you started:
+**Career Objective**  
+To be able to work for a stable organisation that will help me in improving my skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Technical Profeciencies**  
+* 1.C
+* 2.Python
+* 3.Ds
+* 4.Java
