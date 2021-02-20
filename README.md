@@ -8,7 +8,7 @@ I am chandu sree. I am currently pursing b.tech second year in V.R.Siddhartha en
 - 📫 How to reach me: [githublink](https://github.com/chandusree21).
 
 **Career Objective**  
-To be able to work for a stable organisation that will help me in improving my skills 
+To be able to work for a stable organisation that will help me in improving my skills.  
 
 **Technical Profeciencies**  
 * 1.C
