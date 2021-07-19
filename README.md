@@ -15,3 +15,5 @@ To be able to work for a stable organisation that will help me in improving my s
 * 2.Python
 * 3.Ds
 * 4.Java
+* 5.HTML
+* 6.JavaScript
